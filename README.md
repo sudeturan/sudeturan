@@ -23,14 +23,6 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
-### 📊 İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudeturan&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeturan&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
-</div>
-
 ### 📫 Bana Ulaşın
 
 <div align="center">
