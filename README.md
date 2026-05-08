@@ -11,9 +11,7 @@
 <br/>
 
 <div align="center">
-
   <img src="https://komarev.com/ghpvc/?username=sudeturan&color=ff69b4&style=for-the-badge" />
-
 </div>
 
 ---
@@ -58,6 +56,14 @@
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity-121212?style=for-the-badge&logo=hackthebox&logoColor=green" />
 
+<br/><br/>
+
+## 🛠 Tools & Platforms
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
 </div>
 
 ---
@@ -77,18 +83,5 @@ class SudeTuran:
             "Backend Development"
         ]
 
-<h3>🛠 Tools & Platforms</h3>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-### 📫 Contact
-
-<div align="center">
-  <a href="mailto:sudeeeturan34@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sude-turan0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+    def future_goal(self):
+        return "Become a versatile AI Engineer 🚀"
